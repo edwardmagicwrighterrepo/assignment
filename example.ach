@@ -1,0 +1,14 @@
+Testing all valid characters:
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
+_-:.@$=/
+
+Testing invalid characters:
+;*&^%
+
+Testing mixed characters:
+aslfkj#$%^&asdlfaj043259830
+{asdf*$&#@$(alkhjsdfa;)asdf
+
+Example line:
+1 Record Type Code 01-01 1 Y 5 Always "5"
