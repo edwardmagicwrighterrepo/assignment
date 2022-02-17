@@ -1,4 +1,4 @@
-# assignment
+# Magic Wrighter Invalid Character Assignment
 repo for magic homework assignment
 
 # How to run
